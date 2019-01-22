@@ -1,0 +1,25 @@
+# Site settings
+name: bigprince's blog
+email: zuofeng1997@gmail.com
+author: bigprince
+url: http://www.zuofeng.site
+resume_site: http://www.zuofeng.site
+github: https://github.com/bigprince1997
+baseurl: ""
+description: 人工智能只是分享，读书分享
+meta_description: 人工智能只是分享，读书分享
+motto: 人工智能只是分享，读书分享
+banner: 人工智能只是分享，读书分享
+
+#permalink: /:categories/:year/:month/:day/:title/
+permalink: /:year/:month/:day/:title/
+paginate: 10
+
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
+
+github_username: bigprince1997
+# Build settings
+markdown: kramdown
+
+baidu_analysis: 94be4b0f9fc5d94cc0d0415ea6761ae9
+
